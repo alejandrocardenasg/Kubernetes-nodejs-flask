@@ -3,7 +3,7 @@ Despliegue de Deployments y Services para las aplicaciones de NodeJS y Flask del
 
 # Descripción
 
-En este repositorio se implementan los archivos respectivos para implementar los deployments and service de las siguientes aplicaciones:
+En este repositorio se presentan los archivos yaml respectivos para implementar los deployments and service de las siguientes aplicaciones:
 * https://github.com/alejandrocardenasg/Flask-api-procesamiento
 * https://github.com/alejandrocardenasg/NodeJS-Application
 
