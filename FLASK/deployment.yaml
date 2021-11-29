@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: flask-container
-          image: cardenasgg/flask-api-procesing:latest
+          image: cardenasgg/flask-api-processing:latest
           ports:
             - containerPort: 7001
