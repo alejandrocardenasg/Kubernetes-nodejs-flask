@@ -6,6 +6,6 @@ spec:
   type: LoadBalancer
   ports:
     - targetPort: 7001
-      port: 7001
+      port: 7000
   selector:
     app: flask
